@@ -305,7 +305,7 @@ console.log(evenList); // [ 0, 2, 4, 6, 8, 10, 12, 14 ]
 // 8
 ```
 
-- Generation methods can also be used as object properties
+- Generator methods can also be used as object properties
 
 ## Promises
 
