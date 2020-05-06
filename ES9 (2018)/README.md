@@ -31,7 +31,7 @@ const asyncMain = async () => {
 asyncMain();
 ```
 
-## Object Destructuring
+## '...' for Objects
 
 - Spread for Objects
 - Rest for Objects
