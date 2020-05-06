@@ -122,6 +122,8 @@ console.log(encoded.charCodeAt(1).toString(16)); // dd14
 console.log(encoded === '\ud83e\udd14'); // true
 ```
 
+- [Understanding how 20 bit Unicode works](https://en.wikipedia.org/wiki/UTF-16#Code_points_from_U+010000_to_U+10FFFF)
+
 ## Sticky Flag for Regex
 
 ```js
