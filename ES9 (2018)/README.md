@@ -38,7 +38,7 @@ asyncMain();
 
 ## Regex Improvements
 
-- `/s` Dotall flag to match newlines
+- `/s` Dotall flag to match newlines and unicodes
 - Named Groups
 - Unicode Escape Properties
   - [Proposal](https://github.com/tc39/proposal-regexp-unicode-property-escapes#ecmascript-proposal-unicode-property-escapes-in-regular-expressions)
